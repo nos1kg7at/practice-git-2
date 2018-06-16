@@ -1,2 +1,3 @@
 my test to use branches
 string to commit 1
+string to commit 2
