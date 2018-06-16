@@ -2,3 +2,4 @@ my test to use branches
 string to commit 1
 string to commit 2
 string to commit 3
+string to commit 5
